@@ -1,21 +1,14 @@
-# Hi there, I'm Rian 👋
-## 2x SWE Intern @ Microsoft | 7x Hackathon Winner | 20K+ Content Creator | CS @ Western Governors University
-
-<div align="center">
-  
-  ![](https://github.com/coderkai03/stats/blob/master/generated/overview.svg)
-  ![](https://github.com/coderkai03/stats/blob/master/generated/languages.svg)
-  
-</div>
+# Hi there, I'm Abhinav 👋
+## Ex-SWE @ AlertEnterprise | Teaching DSA @ CSUF | AI Engineer
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=coderkai03&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=iabhi4&show_icons=true&theme=tokyonight" 
     alt="Rian's GitHub stats" 
     height="150"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderkai03&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhi4&layout=compact&theme=tokyonight" 
     alt="Top Languages" 
     height="150"
   />
@@ -23,9 +16,10 @@
 
 ## ➡️ About Me
 
-- 👋 Hi, I'm Rian! I'm a full-stack/AI developer.
-- 🎓 CS @ Western Governors University
+- 👋 Hi, I'm Abhinav! I'm a full-stack/AI developer.
+- 🎓 CS @ California State University, Fullerton
 - 🎯 I love building AI tools that enhance everyday life!
+- 🚀 Currently open to Software Engineer / AI Engineer roles!
 
 ## ✅ Languages and Frameworks
 
@@ -35,10 +29,8 @@
     <td>
       <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -67,8 +59,6 @@
       <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Clerk-003D5E.svg?style=flat-square&logo=clerk"/>
     </td>
   </tr>
 
@@ -104,10 +94,9 @@
 
 ## 🤝 Connect with me!!
 
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/riancorci)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riancorcino)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian.corcino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iabhi4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rushtoabhinav)
 
-## 🧋 Favorite boba
+## 🎬 Favorite Movie
 
-it's brown sugar
+Inception because recursion is beautiful
