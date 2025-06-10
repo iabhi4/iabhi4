@@ -1,6 +1,7 @@
 # Hi there, I'm Abhinav 👋
 ## Ex-SWE @ AlertEnterprise | Teaching DSA @ CSUF | AI Engineer
 
+<!--
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=iabhi4&show_icons=true&theme=tokyonight" 
@@ -13,7 +14,7 @@
     height="150"
   />
 </p>
-
+-->
 ## ➡️ About Me
 
 - 👋 Hi, I'm Abhinav! I'm a full-stack/AI developer.
