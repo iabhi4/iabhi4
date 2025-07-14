@@ -1,5 +1,5 @@
 # Hi there, I'm Abhinav 👋
-## Ex-SWE @ AlertEnterprise | Teaching DSA @ CSUF | AI Engineer
+## AI Engineer | Ex-SWE @ AlertEnterprise
 
 <!--
 <p align="center">
